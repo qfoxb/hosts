@@ -1,15 +1,15 @@
-1: xbox.ipv6.microsoft.com 
-  2: device.auth.xboxlive.com  
-  3: www.msftncsi.com  
-  4: title.mgt.xboxlive.com  
-  5: xsts.auth.xboxlive.com  
-  6: title.auth.xboxlive.com  
-  7: ctldl.windowsupdate.com  
-  8: attestation.xboxlive.com  
-  9: xboxexperiencesprod.experimentation.xboxlive.com  
-  10: xflight.xboxlive.com  
-  11: cert.mgt.xboxlive.com  
-  12: xkms.xbolive.com  
+xbox.ipv6.microsoft.com 
+device.auth.xboxlive.com  
+www.msftncsi.com  
+title.mgt.xboxlive.com  
+xsts.auth.xboxlive.com  
+title.auth.xboxlive.com  
+ctldl.windowsupdate.com  
+attestation.xboxlive.com  
+xboxexperiencesprod.experimentation.xboxlive.com  
+xflight.xboxlive.com  
+cert.mgt.xboxlive.com  
+xkms.xbolive.com  
   13: def-vef.xboxlive.com  
   14: notify.xboxlive.com  
   15: help.ui.xboxlive.com  
