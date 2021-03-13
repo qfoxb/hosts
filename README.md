@@ -1,2 +1,2 @@
 # qfoxb's hosts
-qfoxb's personal hosts list
+qfoxb's blacklisted website list in the form of a hosts file
