@@ -10,13 +10,13 @@ xboxexperiencesprod.experimentation.xboxlive.com
 xflight.xboxlive.com  
 cert.mgt.xboxlive.com  
 xkms.xbolive.com  
-  13: def-vef.xboxlive.com  
-  14: notify.xboxlive.com  
-  15: help.ui.xboxlive.com  
-  16: licensing.xboxlive.com  
-  17: eds.xboxlive.com  
-  18: www.xboxlive.com  
-  19: xkms.xboxlive.com (enabled, last modified Wed, 29 Jul 2020 22:29:50 +0100)
+def-vef.xboxlive.com  
+notify.xboxlive.com  
+help.ui.xboxlive.com  
+licensing.xboxlive.com  
+eds.xboxlive.com  
+www.xboxlive.com  
+xkms.xboxlive.com
   20: v10.vortex-win.data.microsoft.com (enabled, last modified Wed, 29 Jul 2020 22:29:50 +0100)
   21: settings-win.data.microsoft.com (enabled, last modified Wed, 29 Jul 2020 22:29:50 +0100)
   22: client-s.gateway.messenger.live.com (enabled, last modified Wed, 29 Jul 2020 22:29:58 +0100)
