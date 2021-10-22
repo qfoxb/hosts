@@ -22,44 +22,44 @@ bs.serving-sys.com/*
 content.bitsontherun.com/*
 core.insightexpressai.com/*
 analytics.twitter.com/*
-0.0.0.0 reservoircourthouse.com/*
-0.0.0.0 ggpht.com/*
-0.0.0.0 r2---sn-vgqsrn76.googlevideo.com/*
-0.0.0.0 yt3.ggpht.com/*
-0.0.0.0 www.mouserecorder.com/*
-0.0.0.0 g.doublecklick.net/*
-0.0.0.0 lp.searchmulty.com/*
-0.0.0.0 deff.nelreports.net/*
-0.0.0.0 sdk.iad-01.braze.com/*
-0.0.0.0 collect.mopinion.com/*
-0.0.0.0 fonts.mopinion.com/*
-0.0.0.0 deploy.mopinion.com/*
-0.0.0.0 trusted-browser.com/*
-0.0.0.0 www.appleiphoneschool.com/*
-0.0.0.0 dt.adsafeprotected.com/*
-0.0.0.0 adsafeprotected.com/*
-0.0.0.0 adservice.google.com/*
-0.0.0.0 snov.io/*
-0.0.0.0 mailtrack.io/*
-0.0.0.0 emailtracker.website/*
-0.0.0.0 hunter.io/*
-0.0.0.0 mailfly.io/*
-0.0.0.0 freebobux.com/*
-0.0.0.0 freerbx.org/*
-0.0.0.0 rbxcloud.com/*
-0.0.0.0 bloxearn.com/*
-0.0.0.0 rbx.cards/*
-0.0.0.0 rbxfire.com/*
-0.0.0.0 rbxinfinite.com/*
-0.0.0.0 1rbx.net/*
-0.0.0.0 winrbx.net/*
-0.0.0.0 buxwithoutverification.co/*
-0.0.0.0 rbxdemon.com/*
-0.0.0.0 rbxhouse.com/*
-0.0.0.0 sweetrbx.com/*
-0.0.0.0 rbxking.online/*
-0.0.0.0 freerobuxwithouthumanverification.com/*
-0.0.0.0 freerobuz.com/*
-0.0.0.0 rbxninja.com/*
-0.0.0.0 buxgenerator.org/*
-0.0.0.0 buxgeneratornohuman.co/*
+reservoircourthouse.com/*
+ggpht.com/*
+r2---sn-vgqsrn76.googlevideo.com/*
+yt3.ggpht.com/*
+www.mouserecorder.com/*
+g.doublecklick.net/*
+lp.searchmulty.com/*
+deff.nelreports.net/*
+sdk.iad-01.braze.com/*
+collect.mopinion.com/*
+fonts.mopinion.com/*
+deploy.mopinion.com/*
+trusted-browser.com/*
+www.appleiphoneschool.com/*
+dt.adsafeprotected.com/*
+adsafeprotected.com/*
+adservice.google.com/*
+snov.io/*
+mailtrack.io/*
+emailtracker.website/*
+hunter.io/*
+mailfly.io/*
+freebobux.com/*
+freerbx.org/*
+rbxcloud.com/*
+bloxearn.com/*
+rbx.cards/*
+rbxfire.com/*
+rbxinfinite.com/*
+1rbx.net/*
+winrbx.net/*
+buxwithoutverification.co/*
+rbxdemon.com/*
+rbxhouse.com/*
+sweetrbx.com/*
+rbxking.online/*
+freerobuxwithouthumanverification.com/*
+freerobuz.com/*
+rbxninja.com/*
+buxgenerator.org/*
+buxgeneratornohuman.co/*
