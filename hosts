@@ -1,4 +1,4 @@
-# Title: Foxhosts: qfoxb's personal hosts file
+# Title: qfoxb's hostsfile
 # ===============================================================
 0.0.0.0 disableadblock.com
 0.0.0.0 stressfulpyjamas.com	
@@ -57,3 +57,17 @@
 0.0.0.0 rbxninja.com
 0.0.0.0 buxgenerator.org
 0.0.0.0 buxgeneratornohuman.co
+0.0.0.0 redshell.io 
+0.0.0.0 www.redshell.io
+0.0.0.0 api.redshell.io
+0.0.0.0 treasuredata.com 
+0.0.0.0 www.treasuredata.com
+0.0.0.0 in.treasuredata.com
+0.0.0.0 api.treasuredata.com 
+0.0.0.0 cdn.rdshll.com
+0.0.0.0 t.redshell.io
+0.0.0.0 innervate.us
+# 127.0.0.1 files.facepunch.com I'm going to leave this commented for now, Uncomment if you want to block more telemetry for Garry's Mod
+0.0.0.0 gameanalytics.com
+0.0.0.0 api.gameanalytics.com 
+0.0.0.0 rubick.gameanalytics.com
