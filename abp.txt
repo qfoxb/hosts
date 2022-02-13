@@ -63,3 +63,16 @@ freerobuz.com/*
 rbxninja.com/*
 buxgenerator.org/*
 buxgeneratornohuman.co/*
+redshell.io/*
+www.redshell.io/*
+api.redshell.io/*
+treasuredata.com/*
+www.treasuredata.com/*
+in.treasuredata.com/*
+api.treasuredata.com/*
+cdn.rdshll.com/*
+t.redshell.io/*
+innervate.us/*
+gameanalytics.com/*
+api.gameanalytics.com/*
+rubick.gameanalytics.com/*
