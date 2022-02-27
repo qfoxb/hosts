@@ -71,3 +71,8 @@
 0.0.0.0 gameanalytics.com
 0.0.0.0 api.gameanalytics.com 
 0.0.0.0 rubick.gameanalytics.com
+0.0.0.0 fireplayersoftware.com
+0.0.0.0 iigggames.com
+0.0.0.0 bs.serving-sys.com
+0.0.0.0 content.bitsontherun.com # not sure what this is, open an issue if this is not  malicious (it's on my blacklist)
+0.0.0.0 bounceexchange.com
