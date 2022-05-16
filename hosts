@@ -73,3 +73,4 @@
 0.0.0.0 bs.serving-sys.com
 0.0.0.0 content.bitsontherun.com # not sure what this is, open an issue if this is not  malicious (it's on my blacklist)
 0.0.0.0 bounceexchange.com
+0.0.0.0 metotreatwit.xyz

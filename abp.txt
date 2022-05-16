@@ -76,3 +76,4 @@ innervate.us/*
 gameanalytics.com/*
 api.gameanalytics.com/*
 rubick.gameanalytics.com/*
+metotreatwit.xyz/*
