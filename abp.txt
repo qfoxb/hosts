@@ -77,3 +77,5 @@ gameanalytics.com/*
 api.gameanalytics.com/*
 rubick.gameanalytics.com/*
 metotreatwit.xyz/*
+freshaudio.net
+adfpoint.com
