@@ -2,7 +2,7 @@
 ! Version: 1.0
 ! Title: qfoxb's hosts list (Adblock Plus)
 ! Last modified: 22 Oct 2021
-! Expires: 9999 days (update frequency)
+! Expires: 10 days (update frequency)
 ! Homepage: https://github.com/qfoxb/hosts/
 ! Licence: https://github.com/qfoxb/hosts/blob/master/LICENSE
 ! !
