@@ -23,9 +23,6 @@ content.bitsontherun.com/*
 core.insightexpressai.com/*
 analytics.twitter.com/*
 reservoircourthouse.com/*
-ggpht.com/*
-r2---sn-vgqsrn76.googlevideo.com/*
-yt3.ggpht.com/*
 www.mouserecorder.com/*
 g.doublecklick.net/*
 lp.searchmulty.com/*
