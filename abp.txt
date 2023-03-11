@@ -80,3 +80,4 @@ adfpoint.com/*
 erebelfare.xyz/*
 discorb-nitro.ru/*
 giff.cloud/*
+photo.m2u7.us/*
