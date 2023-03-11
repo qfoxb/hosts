@@ -64,7 +64,7 @@
 0.0.0.0 cdn.rdshll.com
 0.0.0.0 t.redshell.io
 0.0.0.0 innervate.us
-# 127.0.0.1 files.facepunch.com I'm going to leave this commented for now, Uncomment if you want to block more telemetry for Garry's Mod
+# 127.0.0.1 files.facepunch.com # I'm going to leave this commented for now, Uncomment if you want to block more telemetry for Garry's Mod
 0.0.0.0 gameanalytics.com
 0.0.0.0 api.gameanalytics.com 
 0.0.0.0 rubick.gameanalytics.com
@@ -79,3 +79,4 @@
 0.0.0.0 erebelfare.xyz
 0.0.0.0 discorb-nitro.ru
 0.0.0.0 giff.cloud
+0.0.0.0 photo.m2u7.us 
